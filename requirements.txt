@@ -3,3 +3,7 @@ easyocr==1.2.4
 pandas==1.5.3
 opencv-python-headless==4.5.4.60
 numpy==1.24.2
+accelerate
+pyngrok==4.1.1
+flask_ngrok
+torch>=1.4
