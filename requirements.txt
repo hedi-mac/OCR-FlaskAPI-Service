@@ -1,6 +1,5 @@
 Flask==2.2.2
-easyocr
-pandas
-cv2
-easyocr
-numpy
+easyocr==1.2.4
+pandas==1.5.3
+opencv-python-headless==4.5.4.60
+numpy==1.24.2
