@@ -6,7 +6,7 @@ import os
 import easyocr 
 from pytesseract import pytesseract, image_to_data, Output
 
-pytesseract.tesseract_cmd = r'D:\00__WORK__ZONE\PFE\Tesseract-OCR\tesseract.exe'
+#pytesseract.tesseract_cmd = r'D:\00__WORK__ZONE\PFE\Tesseract-OCR\tesseract.exe'
 config = "--psm 11 --oem 3"
 lang = "eng+fr"
 
